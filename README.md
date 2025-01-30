@@ -46,7 +46,7 @@ Contribuidor principal: https://www.github.com/alicesophialv
 ### Link em uma imagem
 [![Logo HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)](https://www.github.com/alicesophialv)
 
-## Còdigo da função soma
+## Código da função soma
 
 ```javascript
 function soma(a, b) {

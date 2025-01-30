@@ -30,3 +30,7 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem local
 
 ![Logo do Python](img/Python-Symbol.png)
+
+### Imagem externa
+
+![Logo do HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)

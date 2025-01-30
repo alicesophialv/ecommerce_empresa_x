@@ -34,3 +34,7 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem externa
 
 ![Logo do HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
